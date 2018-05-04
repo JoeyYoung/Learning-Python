@@ -1,2 +1,2 @@
-# Learning-Python
-Practice python programs by coding exercises and daily notes
+# Learning in Zju
+Some records about course programs and self learning process.
